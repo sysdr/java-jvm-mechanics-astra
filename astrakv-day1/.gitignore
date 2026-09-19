@@ -1,0 +1,23 @@
+# Build output
+bin/
+out/
+target/
+build/
+*.class
+
+# Secrets / local env
+.env
+.env.*
+credentials.json
+service-account.json
+secrets.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+*.iml
+.vscode/
